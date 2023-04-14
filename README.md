@@ -13,13 +13,13 @@ Solución a la prueba de desarrollo para el cargo de Desarrador de www.lexerlata
 
 Uso con docker:
 
-1. Clonar el repositorio de github -> git clone 
+1. Clonar el repositorio de github -> git clone https://github.com/JohnatanGuerrero/prueba-desarrollo-cobrando-bpo.git
 2. Montar la imagen de docker -> docker-compose up --build
 3. Probar en http://localhost:1234/api o http://localhost/api con nginx
 
 ## Características
 
-Microservicion empleados:
+Microservicio empleados:
 
 - Creación de empleados
 - Modificación de empleados
