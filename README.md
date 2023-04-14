@@ -15,6 +15,7 @@ Uso con docker:
 
 1. Clonar el repositorio de github -> git clone https://github.com/JohnatanGuerrero/prueba-desarrollo-cobrando-bpo.git
 2. Montar la imagen de docker -> docker-compose up --build
+    - Nota: Si tiene problemas con alguna imagen del contenedor -> usar docker-compose up --build nuevamente
 3. Probar en http://localhost:1234/api o http://localhost/api con nginx
 
 ## Características
